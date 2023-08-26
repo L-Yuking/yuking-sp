@@ -1,0 +1,23 @@
+#站点配置说明
+site_name: 橘芒冰的空间 #站点名称
+docs_dir: docs #文档地址
+#主题配置
+theme:
+  name: material #指定主题
+  #custom_dir: overrides #定制目录，同名覆盖
+  palette: #颜色配置
+    primary: indigo #主题颜色
+    accent: deep orange #强调文字颜色
+  language: zh #语言
+  features:
+    - navigation.top #tab页展示方式 顶部 
+    - header.autohide #表头自动隐藏
+
+#版本控制
+extra: 
+  version:            
+    provider: mike
+
+
+      
+
