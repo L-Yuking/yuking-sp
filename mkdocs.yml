@@ -13,10 +13,7 @@ theme:
     - navigation.top #tab页展示方式 顶部 
     - header.autohide #表头自动隐藏
 
-#版本控制
-extra: 
-  version:            
-    provider: mike
+
 
 
 
