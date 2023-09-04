@@ -20,7 +20,8 @@ theme:
 
 nav:
   - 首页: index.md 
-  - 尝试: start.md 
+  - 尝试: start.md
+  - 网页搭建: yukingSpace.md
 
 
 
