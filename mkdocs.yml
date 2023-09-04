@@ -19,5 +19,13 @@ extra:
     provider: mike
 
 
+
+
+nav:
+  - 首页: index.md 
+  - 尝试: start.md 
+
+
+
       
 
