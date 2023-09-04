@@ -1,4 +1,4 @@
-# 首页-说明一下
+# 哈哈哈哈
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
